@@ -7,8 +7,6 @@ Para utilizá-la, basta clicar nos números escolhidos, na operação a ser calc
 
 O objetivo desse projeto é apenas para treino e aprofundar os conhecimentos nas linguagens utilizadas.
 
-
-É preciso fazer o fork do repositório para executá-lo.
 </br>
 </br>
 ![image](https://user-images.githubusercontent.com/117486346/223887494-f1353d82-7041-475b-8d77-e4dd322a3043.png)
